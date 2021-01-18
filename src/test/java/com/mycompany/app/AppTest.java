@@ -6,8 +6,6 @@ import java.io.PrintStream;
 /**
  * Unit test for simple App.
  */
-public class AppTest
-{
 
     private final ByteArrayOutputStream outContent = new ByteArrayOutputStream();
 
